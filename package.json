@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-mongodb-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Obinna Ogbonna <obinnaogbonnajoseph@gmail.com> (https://github.com/obinnaogbonnajoseph)",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.4.0"
+  }
+}
